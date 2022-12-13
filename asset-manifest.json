@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-project-gpt3/static/css/main.db00b2e3.css",
+    "main.js": "/react-project-gpt3/static/js/main.99523448.js",
+    "static/media/ai.png": "/react-project-gpt3/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/react-project-gpt3/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-project-gpt3/static/media/blog01.b8c594107c0678715afa.png",
+    "static/media/blog03.png": "/react-project-gpt3/static/media/blog03.09c400fc78c96e4ff788.png",
+    "static/media/blog04.png": "/react-project-gpt3/static/media/blog04.2f7565c893499d0f39f0.png",
+    "static/media/blog05.png": "/react-project-gpt3/static/media/blog05.e2cd2c3bcda87df5181f.png",
+    "static/media/blog02.png": "/react-project-gpt3/static/media/blog02.4575fb47b66fd76940b0.png",
+    "static/media/people.png": "/react-project-gpt3/static/media/people.2cfdf724680e3ce7e868.png",
+    "static/media/logo.svg": "/react-project-gpt3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-project-gpt3/index.html",
+    "main.db00b2e3.css.map": "/react-project-gpt3/static/css/main.db00b2e3.css.map",
+    "main.99523448.js.map": "/react-project-gpt3/static/js/main.99523448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db00b2e3.css",
+    "static/js/main.99523448.js"
+  ]
+}
